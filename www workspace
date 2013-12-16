@@ -1,5 +1,32 @@
 <NotepadPlus>
     <Project name="WWW V&#x00E5;land Gaming">
+        <Folder name="css">
+            <File name="css\main.css" />
+            <File name="css\normalize.css" />
+        </Folder>
+        <Folder name="doc">
+            <File name="doc\crossdomain.md" />
+            <File name="doc\css.md" />
+            <File name="doc\extend.md" />
+            <File name="doc\faq.md" />
+            <File name="doc\html.md" />
+            <File name="doc\js.md" />
+            <File name="doc\misc.md" />
+            <File name="doc\TOC.md" />
+            <File name="doc\usage.md" />
+        </Folder>
+        <Folder name="Img">
+            <File name="Img\.gitignore" />
+            <File name="Img\frontMetropolis.jpg" />
+        </Folder>
+        <Folder name="js">
+            <Folder name="vendor">
+                <File name="js\vendor\jquery-1.10.2.min.js" />
+                <File name="js\vendor\modernizr-2.6.2.min.js" />
+            </Folder>
+            <File name="js\main.js" />
+            <File name="js\plugins.js" />
+        </Folder>
         <Folder name="wordpress">
             <Folder name="wp-admin">
                 <Folder name="css">
@@ -1424,8 +1451,21 @@
         </Folder>
         <File name=".gitattributes" />
         <File name=".gitignore" />
+        <File name=".htaccess" />
+        <File name="404.html" />
+        <File name="apple-touch-icon-precomposed.png" />
+        <File name="CHANGELOG.md" />
+        <File name="CONTRIBUTING.md" />
+        <File name="crossdomain.xml" />
+        <File name="favicon.ico" />
+        <File name="humans.txt" />
         <File name="index.html" />
+        <File name="info.html" />
+        <File name="LICENSE.md" />
         <File name="README" />
+        <File name="README.md" />
+        <File name="robots.txt" />
         <File name="Style.css" />
+        <File name="www workspace" />
     </Project>
 </NotepadPlus>
