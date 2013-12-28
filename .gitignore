@@ -219,3 +219,5 @@ pip-log.txt
 #############
 
 wordpress/
+*.sublime-project
+*.sublime-workspace
