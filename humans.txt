@@ -4,6 +4,7 @@
 # TEAM
 
     <Glenn Falnes> -- <Lead Developer> -- <null>
+    <Andreas Johannes Caspers> -- <2nd Lead Developer> -- <null>
 
 # THANKS
 
